@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User search page</title>
+    <link rel="stylesheet" href="/public/css/style.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="search-form">
+            <form action="/" method="GET">
+                <div>
+                    User id: <input type="text" name="id" />
+                </div>
+                <div>
+                    User email: <input type="text" name="email" />
+                </div>
+                <div>
+                    User first name: <input type="text" name="first_name" />
+                </div>
+                <div>
+                    User last name: <input type="text" name="last_name" />
+                </div>
+                <div>
+                    User status: <input type="text" name="status" />
+                </div>
+                <input type="submit" value="Search" />
+            </form>
+        </div>
+        <div class="display-area">
+        </div>
+    </div>
+    <script type="text/javascript" src="/public/js/main.js"></script>
+</body>
+</html>

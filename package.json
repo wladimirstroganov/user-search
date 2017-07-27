@@ -1,0 +1,21 @@
+{
+  "name": "timeout-test",
+  "version": "1.0.0",
+  "description": "Timeout test",
+  "main": "src/index.js",
+  "scripts": {
+    "init": "npm install && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.14.1"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 399310,
+    "email": "johndoe@timeout.com",
+    "status": "signed_in",
+    "first_name": "John",
+    "last_name": "Doe",
+    "display_name": "screenname",
+    "photo_url": "some/profile/picture.jpg",
+    "created_at": "2015-07-09T14: 48:24.950Z",
+    "updated_at": "2015-08-27T09: 32:47.646Z",
+    "last_login_at": "2015-08-27T09: 32:12.588Z"
+  },
+  {
+    "id": 399311,
+    "email": "johndoe1@timeout.com",
+    "status": "signed_in",
+    "first_name": "John",
+    "last_name": "Doe",
+    "display_name": "screenname",
+    "photo_url": "some/profile/picture.jpg",
+    "created_at": "2015-07-09T14: 48:24.950Z",
+    "updated_at": "2015-08-27T09: 32:47.646Z",
+    "last_login_at": "2015-08-27T09: 32:12.588Z"
+  },
+  {
+    "id": 399312,
+    "email": "johndoe2@timeout.com",
+    "status": "signed_in",
+    "first_name": "John",
+    "last_name": "Doe",
+    "display_name": "screenname",
+    "photo_url": "some/profile/picture.jpg",
+    "created_at": "2015-07-09T14: 48:24.950Z",
+    "updated_at": "2015-08-27T09: 32:47.646Z",
+    "last_login_at": "2015-08-27T09: 32:12.588Z"
+  }
+]

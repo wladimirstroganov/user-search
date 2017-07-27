@@ -1,0 +1,10 @@
+.container {
+    width:960px;
+    margin:0 auto;
+}
+
+table {
+    width:100%;
+    margin-top:12px;
+    border:1px solid black;
+}
